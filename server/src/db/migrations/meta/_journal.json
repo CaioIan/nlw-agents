@@ -8,6 +8,13 @@
       "when": 1754442628697,
       "tag": "0000_abandoned_malcolm_colcord",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1755031592628,
+      "tag": "0001_faithful_psylocke",
+      "breakpoints": true
     }
   ]
 }
